@@ -1,54 +1,30 @@
-<p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
-</p>
+# Spiceworks IT Service Desk Lab – Ticketing & Troubleshooting
 
-<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+## Lab Overview
+This lab simulates real-world entry-level IT Service Desk operations using the Spiceworks ticketing system. The goal of this project is to demonstrate my ability to function as a first-line IT support technician by properly documenting, prioritizing, troubleshooting, resolving, and escalating technical issues in a structured ticketing environment.
 
+This project reflects the daily responsibilities of an entry-level IT Help Desk or Service Desk role, with an emphasis on professional documentation, customer communication, and technical problem-solving.
 
-<h2>Video Demonstration</h2>
+---
 
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
+## What This Lab Demonstrates
+- Understanding of IT Service Desk workflows and incident management
+- Proper ticket creation, categorization, and prioritization
+- Clear and professional documentation of troubleshooting steps and resolutions
+- Hands-on experience using the Spiceworks ticketing platform
+- Escalation awareness and accurate handoff notes
 
-<h2>Environments and Technologies Used</h2>
+---
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+## Scope of the Lab
 
-<h2>Operating Systems Used </h2>
+This lab includes simulated support tickets based on common issues handled by entry-level IT support technicians in academic and business environments.
 
-- Windows 10</b> (21H2)
+### Ticket Types Covered
+- Password reset and account lockout requests  
+- Email access and configuration issues  
+- Windows login and user profile problems  
+- Network connectivity issues (Wi-Fi and Ethernet)  
+- Software installation and permission requests  
+- Hardware and peripheral issues (printers, monitors, keyboards, mice)
 
-<h2>Ticket Lifecycle Stages</h2>
-
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
-
-<h2>Lifecycle Stages</h2>
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
