@@ -3,7 +3,6 @@
 ## Lab Overview
 This lab simulates real-world entry-level IT Service Desk operations using the Spiceworks ticketing system. The goal of this project is to demonstrate my ability to function as a first-line IT support technician by properly documenting, prioritizing, troubleshooting, resolving, and escalating technical issues in a structured ticketing environment.
 
-This project reflects the daily responsibilities of an entry-level IT Help Desk or Service Desk role, with an emphasis on professional documentation, customer communication, and technical problem-solving.
 
 ---
 
